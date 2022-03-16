@@ -17,7 +17,7 @@ resource "aws_iam_user" "lb" {
 ```
 ### elb.tf
 
-Documentation:  https://www.terraform.io/docs/providers/aws/r/elb.html
+Documentation:  https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/elb
 
 Final Code:
 
